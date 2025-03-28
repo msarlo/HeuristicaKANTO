@@ -7,7 +7,7 @@ grafo.criarGrafoKanto();
 
 
 const inicio = "Pallet";
-const destino = "Indigo Plateau";
+const destino = "Saffron";
 
 
 const caminho = AEstrela.encontrarCaminho(grafo, inicio, destino);
